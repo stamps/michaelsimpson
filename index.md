@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Michael Simpson
 
-You can use the [editor on GitHub](https://github.com/stamps/stamps.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currrently a postdoctoral researcher in the [Data Management and Mining Lab](https://www.cs.ubc.ca/labs/db/home.php) at the University of Britsh Columbia wokring under the supervision of [Laks Lakshmanan](https://www.cs.ubc.ca/~laks/). I receieved my M.Sc. in 2014 and Ph.D. in 2018 from the [University of Victoria](https://www.uvic.ca/engineering/computerscience/index.php) under the supervision of [Venkatesh Srinivasan](http://webhome.cs.uvic.ca/~srinivas/) and [Alex Thomo](http://webhome.cs.uvic.ca/~thomo/). My research interests include:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Combating Fake News
+- Knowledge Graphs
+- Fairness in Combinatorial Optimization
+- Graph Algorithms
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stamps/stamps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+for a list of publications please see my [Google Scholar page](https://scholar.google.com/citations?user=pHSQVeAAAAAJ&hl=en) or my [DBLP entry](https://dblp.org/pid/150/6218.html).
