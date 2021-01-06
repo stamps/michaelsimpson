@@ -13,7 +13,7 @@ I'm currrently a postdoctoral researcher in the [Data Management and Mining Lab]
 
 ## Publications
 
-for a list of publications please see my [Google Scholar page](https://scholar.google.com/citations?user=pHSQVeAAAAAJ&hl=en) or my [DBLP entry](https://dblp.org/pid/150/6218.html).
+For a complete list of publications please see my [Google Scholar page](https://scholar.google.com/citations?user=pHSQVeAAAAAJ&hl=en) or my [DBLP entry](https://dblp.org/pid/150/6218.html).
 
 ## Contact
 
