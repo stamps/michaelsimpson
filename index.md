@@ -15,4 +15,4 @@ for a list of publications please see my [Google Scholar page](https://scholar.g
 
 ## Contact
 
-I can be reached at: *michaelesimp* at *gmail* dot *com*.
+*michaelesimp* at *gmail* dot *com*.
