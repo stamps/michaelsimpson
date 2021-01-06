@@ -1,4 +1,6 @@
-<img align="center" src="/headshot.jpg" height="375" width="250">
+<p align="center">
+  <img src="/headshot.jpg" height="375" width="250" />
+</p>
 
 ## About
 
