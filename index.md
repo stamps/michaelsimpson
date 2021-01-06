@@ -1,6 +1,4 @@
-# Michael Simpson
-
-<img src="/headshot.jpg" height="375" width="250">
+<img align="center" src="/headshot.jpg" height="375" width="250">
 
 ## About
 
