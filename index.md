@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="michaelsimpson/headshot.jpg" height="375" width="250" />
+  <img src="../headshot.jpg" height="375" width="250" />
 </p>
 
 ## About
